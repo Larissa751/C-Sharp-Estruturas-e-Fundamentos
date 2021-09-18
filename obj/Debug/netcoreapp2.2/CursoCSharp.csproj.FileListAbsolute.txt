@@ -1,0 +1,11 @@
+C:\Users\Larissa\source\repos\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.csprojAssemblyReference.cache
+C:\Users\Larissa\source\repos\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\source\repos\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Larissa\source\repos\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.AssemblyInfo.cs
+C:\Users\Larissa\source\repos\CursoCSharp\bin\Debug\netcoreapp2.2\CursoCSharp.deps.json
+C:\Users\Larissa\source\repos\CursoCSharp\bin\Debug\netcoreapp2.2\CursoCSharp.runtimeconfig.json
+C:\Users\Larissa\source\repos\CursoCSharp\bin\Debug\netcoreapp2.2\CursoCSharp.runtimeconfig.dev.json
+C:\Users\Larissa\source\repos\CursoCSharp\bin\Debug\netcoreapp2.2\CursoCSharp.dll
+C:\Users\Larissa\source\repos\CursoCSharp\bin\Debug\netcoreapp2.2\CursoCSharp.pdb
+C:\Users\Larissa\source\repos\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.dll
+C:\Users\Larissa\source\repos\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.pdb
